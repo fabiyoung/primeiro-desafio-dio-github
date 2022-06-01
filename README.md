@@ -1,3 +1,3 @@
-# Repository for the Git/GitHub challenge
+# Repository for the Git/GitHub challenge | Digital Innovation One
 
-First challenge of DIO Full Stack course
+This repository contains notes from Git/Gihub module and includes basic commands to use in Git/GitHub
