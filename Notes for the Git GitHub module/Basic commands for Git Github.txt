@@ -1,0 +1,30 @@
+Main commands learned so far to work with Git/Github
+
+Basic and general commands
+cd - select and enter a specific folder
+cd .. - return to the previous folder
+Crtl + l - clean up Git bash screen
+ls - list all the content in the actual folder
+ls -a - see all ocult folders
+cd .git/ - see ocult files
+
+
+git config --global user.email "email@.com"
+git config --global user.name "namehere"
+git config --global --unset user.email "email@.com" - undo the initial configuration
+git config --global --unset user.name "namehere" - undo for name initial configuration
+git config --list
+git init (to initialize it)
+git add (to stage)
+git add * (to stage all the files in the folder)
+git commit -m "messagehere"
+git status
+git clone <http://xxxxxxx>
+git remote add origin <http://xxxxxxxx> - being origen an alias
+git push origin master
+git pull origin master
+git remote - v - point out ocult directories
+mkdir xxxx
+mv xxxx
+echo xxxx - create a new file
+
