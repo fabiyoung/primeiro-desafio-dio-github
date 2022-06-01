@@ -1,2 +1,3 @@
-# primeiro-desafio-dio-github
-Primeiro desafio do curso Full Stack - DIO
+# Repository for the Git/GitHub challenge
+
+First challenge of DIO Full Stack course
